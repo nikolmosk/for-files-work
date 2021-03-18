@@ -1,0 +1,16 @@
+C:\Users\user\Dropbox\LIT\ТПП\решения по курсу ТПП\3 минизадачи Многоугольники от3до6\минизадача 7\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\user\Dropbox\LIT\ТПП\решения по курсу ТПП\3 минизадачи Многоугольники от3до6\минизадача 7\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\user\Dropbox\LIT\ТПП\решения по курсу ТПП\3 минизадачи Многоугольники от3до6\минизадача 7\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\user\Dropbox\LIT\ТПП\решения по курсу ТПП\3 минизадачи Многоугольники от3до6\минизадача 7\obj\Debug\7 Модальное окно Color.csprojResolveAssemblyReference.cache
+C:\Users\user\Dropbox\LIT\ТПП\решения по курсу ТПП\3 минизадачи Многоугольники от3до6\минизадача 7\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\user\Dropbox\LIT\ТПП\решения по курсу ТПП\3 минизадачи Многоугольники от3до6\минизадача 7\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\user\Dropbox\LIT\ТПП\решения по курсу ТПП\3 минизадачи Многоугольники от3до6\минизадача 7\obj\Debug\7 Модальное окно Color.csproj.GenerateResource.Cache
+C:\Users\user\Dropbox\LIT\ТПП\решения по курсу ТПП\3 минизадачи Многоугольники от3до6\минизадача 7\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\user\Dropbox\LIT\ТПП\решения по курсу ТПП\3 минизадачи Многоугольники от3до6\минизадача 7\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\anna.terekhina.WEST\Dropbox\LIT\ТПП\решения по курсу ТПП\3 минизадачи Многоугольники от3до6\минизадача 7\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\anna.terekhina.WEST\Dropbox\LIT\ТПП\решения по курсу ТПП\3 минизадачи Многоугольники от3до6\минизадача 7\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\anna.terekhina.WEST\Dropbox\LIT\ТПП\решения по курсу ТПП\3 минизадачи Многоугольники от3до6\минизадача 7\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\anna.terekhina.WEST\Dropbox\LIT\ТПП\решения по курсу ТПП\3 минизадачи Многоугольники от3до6\минизадача 7\obj\Debug\7 Модальное окно Color.csprojResolveAssemblyReference.cache
+C:\Users\anna.terekhina.WEST\Dropbox\LIT\ТПП\решения по курсу ТПП\3 минизадачи Многоугольники от3до6\минизадача 7\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\anna.terekhina.WEST\Dropbox\LIT\ТПП\решения по курсу ТПП\3 минизадачи Многоугольники от3до6\минизадача 7\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\anna.terekhina.WEST\Dropbox\LIT\ТПП\решения по курсу ТПП\3 минизадачи Многоугольники от3до6\минизадача 7\obj\Debug\7 Модальное окно Color.csproj.GenerateResource.Cache

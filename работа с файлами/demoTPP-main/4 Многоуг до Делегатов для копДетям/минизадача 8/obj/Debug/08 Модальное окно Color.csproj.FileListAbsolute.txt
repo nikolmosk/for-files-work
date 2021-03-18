@@ -1,0 +1,37 @@
+C:\Users\user\Dropbox\LIT\ТПП\решения по курсу ТПП\4 минизадачи Многоугольники с8до13\минизадача 8\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\user\Dropbox\LIT\ТПП\решения по курсу ТПП\4 минизадачи Многоугольники с8до13\минизадача 8\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\user\Dropbox\LIT\ТПП\решения по курсу ТПП\4 минизадачи Многоугольники с8до13\минизадача 8\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\user\Dropbox\LIT\ТПП\решения по курсу ТПП\4 минизадачи Многоугольники с8до13\минизадача 8\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\user\Dropbox\LIT\ТПП\решения по курсу ТПП\4 минизадачи Многоугольники с8до13\минизадача 8\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\user\Dropbox\LIT\ТПП\решения по курсу ТПП\4 минизадачи Многоугольники с8до13\минизадача 8\obj\Debug\08 Модальное окно Color.csproj.GenerateResource.Cache
+C:\Users\user\Dropbox\LIT\ТПП\решения по курсу ТПП\4 минизадачи Многоугольники с8до13\минизадача 8\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\user\Dropbox\LIT\ТПП\решения по курсу ТПП\4 минизадачи Многоугольники с8до13\минизадача 8\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\anna.terekhina\Dropbox\LIT\ТПП\решения по курсу ТПП\4 минизадачи Многоугольники с8до13\минизадача 8\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\anna.terekhina\Dropbox\LIT\ТПП\решения по курсу ТПП\4 минизадачи Многоугольники с8до13\минизадача 8\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\anna.terekhina\Dropbox\LIT\ТПП\решения по курсу ТПП\4 минизадачи Многоугольники с8до13\минизадача 8\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\anna.terekhina\Dropbox\LIT\ТПП\решения по курсу ТПП\4 минизадачи Многоугольники с8до13\минизадача 8\obj\Debug\08 Модальное окно Color.csprojResolveAssemblyReference.cache
+C:\Users\anna.terekhina\Dropbox\LIT\ТПП\решения по курсу ТПП\4 минизадачи Многоугольники с8до13\минизадача 8\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\anna.terekhina\Dropbox\LIT\ТПП\решения по курсу ТПП\4 минизадачи Многоугольники с8до13\минизадача 8\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\anna.terekhina\Dropbox\LIT\ТПП\решения по курсу ТПП\4 минизадачи Многоугольники с8до13\минизадача 8\obj\Debug\08 Модальное окно Color.csproj.GenerateResource.Cache
+C:\Users\anna.terekhina\Dropbox\LIT\ТПП\решения по курсу ТПП\4 минизадачи Многоугольники с8до13\минизадача 8\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\anna.terekhina\Dropbox\LIT\ТПП\решения по курсу ТПП\4 минизадачи Многоугольники с8до13\минизадача 8\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Анна Терехина\Dropbox\LIT\ТПП\решения по курсу ТПП\3_1 Многоугольники до Делегатов для копирования\минизадача 8\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Анна Терехина\Dropbox\LIT\ТПП\решения по курсу ТПП\3_1 Многоугольники до Делегатов для копирования\минизадача 8\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Анна Терехина\Dropbox\LIT\ТПП\решения по курсу ТПП\3_1 Многоугольники до Делегатов для копирования\минизадача 8\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Анна Терехина\Dropbox\LIT\ТПП\решения по курсу ТПП\3_1 Многоугольники до Делегатов для копирования\минизадача 8\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Анна Терехина\Dropbox\LIT\ТПП\решения по курсу ТПП\3_1 Многоугольники до Делегатов для копирования\минизадача 8\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Анна Терехина\Dropbox\LIT\ТПП\решения по курсу ТПП\3_1 Многоугольники до Делегатов для копирования\минизадача 8\obj\Debug\08 Модальное окно Color.csprojResolveAssemblyReference.cache
+C:\Users\Анна Терехина\Dropbox\LIT\ТПП\решения по курсу ТПП\3_1 Многоугольники до Делегатов для копирования\минизадача 8\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Анна Терехина\Dropbox\LIT\ТПП\решения по курсу ТПП\3_1 Многоугольники до Делегатов для копирования\минизадача 8\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Анна Терехина\Dropbox\LIT\ТПП\решения по курсу ТПП\3_1 Многоугольники до Делегатов для копирования\минизадача 8\obj\Debug\08 Модальное окно Color.csproj.GenerateResource.Cache
+C:\Users\moska\Downloads\demoTPP-main\demoTPP-main\4 Многоуг до Делегатов для копДетям\минизадача 8\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\moska\Downloads\demoTPP-main\demoTPP-main\4 Многоуг до Делегатов для копДетям\минизадача 8\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\moska\Downloads\demoTPP-main\demoTPP-main\4 Многоуг до Делегатов для копДетям\минизадача 8\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\moska\Downloads\demoTPP-main\demoTPP-main\4 Многоуг до Делегатов для копДетям\минизадача 8\obj\Debug\08 Модальное окно Color.csprojAssemblyReference.cache
+C:\Users\moska\Downloads\demoTPP-main\demoTPP-main\4 Многоуг до Делегатов для копДетям\минизадача 8\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\moska\Downloads\demoTPP-main\demoTPP-main\4 Многоуг до Делегатов для копДетям\минизадача 8\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\moska\Downloads\demoTPP-main\demoTPP-main\4 Многоуг до Делегатов для копДетям\минизадача 8\obj\Debug\08 Модальное окно Color.csproj.GenerateResource.cache
+C:\Users\moska\Downloads\demoTPP-main\demoTPP-main\4 Многоуг до Делегатов для копДетям\минизадача 8\obj\Debug\08 Модальное окно Color.csproj.CoreCompileInputs.cache
+C:\Users\moska\Downloads\demoTPP-main\demoTPP-main\4 Многоуг до Делегатов для копДетям\минизадача 8\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\moska\Downloads\demoTPP-main\demoTPP-main\4 Многоуг до Делегатов для копДетям\минизадача 8\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\moska\Downloads\demoTPP-main\demoTPP-main\4 Многоуг до Делегатов для копДетям\минизадача 8\obj\Debug\WindowsFormsApplication1.Form2.resources

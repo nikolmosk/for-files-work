@@ -1,0 +1,12 @@
+C:\Users\user\Dropbox\LIT\ТПП\решения по курсу ТПП\3 минизадачи Многоугольники 3и4\минизадача 5\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\user\Dropbox\LIT\ТПП\решения по курсу ТПП\3 минизадачи Многоугольники 3и4\минизадача 5\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\user\Dropbox\LIT\ТПП\решения по курсу ТПП\3 минизадачи Многоугольники 3и4\минизадача 5\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\user\Dropbox\LIT\ТПП\решения по курсу ТПП\3 минизадачи Многоугольники 3и4\минизадача 5\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\user\Dropbox\LIT\ТПП\решения по курсу ТПП\3 минизадачи Многоугольники 3и4\минизадача 5\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\user\Dropbox\LIT\ТПП\решения по курсу ТПП\3 минизадачи Многоугольники 3и4\минизадача 5\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\user\Dropbox\LIT\ТПП\решения по курсу ТПП\3 минизадачи Многоугольники 3и4\минизадача 5\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\user\Dropbox\LIT\ТПП\решения по курсу ТПП\3 минизадачи Многоугольники 3и4\минизадача 5\obj\Debug\5 Список.csproj.GenerateResource.Cache
+C:\Users\user\Dropbox\LIT\ТПП\решения по курсу ТПП\3 минизадачи Многоугольники 3и4\минизадача 5\obj\Debug\5 Список.csprojResolveAssemblyReference.cache
+C:\Users\anna.terekhina\Dropbox\LIT\ТПП\решения по курсу ТПП\3 минизадачи Многоугольники 3и4\минизадача 5\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\anna.terekhina\Dropbox\LIT\ТПП\решения по курсу ТПП\3 минизадачи Многоугольники 3и4\минизадача 5\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\anna.terekhina\Dropbox\LIT\ТПП\решения по курсу ТПП\3 минизадачи Многоугольники 3и4\минизадача 5\obj\Debug\WindowsFormsApplication1.pdb
